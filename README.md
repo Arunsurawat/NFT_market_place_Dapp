@@ -12,12 +12,11 @@
 # Summary
 
 - [About](#about)
-- [Preview](#preview)
 - [Architecture and Client-side Flow](#architecture)
 - [Built with](#technologies)
 - [How to Use](#how-to-use)
 - [TODO](#todo)
-- [License](#license)
+
 
 <a id='about'/>
 
@@ -114,10 +113,6 @@ There are some things to be done in the project:
   - NFT cards to reflect the true information of price coming from the blockchain.
 
 <a id='license'/>
-
-## :page_with_curl: License
-
-This project is under the **MIT license**. See the [LICENSE](https://github.com/BravoNatalie/NFT-Marketplace/blob/master/LICENSE) for more information.
 
 
 ## :mailbox_with_mail: Get in touch!
