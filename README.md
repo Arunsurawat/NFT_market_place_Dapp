@@ -1,7 +1,3 @@
-<h1 align=center>
-<img src="https://res.cloudinary.com/nataliebravo/image/upload/v1630406853/NFT/banner_npzzzz.png" />
-</h1>
-
 <div align="center">
   
 ![License](https://img.shields.io/badge/license-MIT-737CA1?style=flat-square) 
